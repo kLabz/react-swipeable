@@ -1,0 +1,20 @@
+{
+  "name": "react-swipeable",
+  "description": "React swipe event handler component",
+  "version": "1.0.0",
+  "releasenote": "Initial release",
+  "url": "https://github.com/kLabz/react-swipeable",
+  "license": "MIT",
+  "tags": [
+    "react"
+  ],
+  "classPath": "src",
+  "dependencies": {
+    "css-types": "",
+    "react-types": ""
+  },
+  "contributors": [
+    "klabz"
+  ]
+}
+
